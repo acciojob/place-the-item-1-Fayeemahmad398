@@ -8,9 +8,9 @@
 	display:flex;
 	margin:0px;
 	flex-direction:row;
-	background-color:red;
+/* 	background-color:red; */
 	flex-flow:wrap;
-	justify-content:space-between
+/* 	justify-content:space-between */
 	
 }
 .item{
