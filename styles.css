@@ -2,32 +2,34 @@
 /* Your CSS Code here. */
 
 
- .holder {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-        }
+.holder{
+	display:flex;
+	flex-flow:wrap;
+	justify-content:space-between;
+	
+}
+.item1{
+	height:80px;
+	font-size:40px;
+	width:80px;
+	background-color:blue;
+}
+.item2{
+	height:80px;
+	width:80px;
+	background-color:red;
+		font-size:40px;
 
-        .item1 {
-            height: 80px;
-            width: 80px;
-            background-color: green;
-            font-size: 40px;
-        }
+}
+.item3{
 
-        .item2 {
-            height: 80px;
-            width: 80px;
-            background-color: blue;
-            font-size: 40px;
-        }
+	height:80px;
+	width:80px;
+		font-size:40px;
 
-        .item3{
-            height: 80px;
-            width: 80px;
-            background-color: red;
-            font-size: 40px;
-        }
+	background-color:green;
+}
+
 
 
 
