@@ -2,30 +2,32 @@
 /* Your CSS Code here. */
 
 
-.Holder{
-	display:flex;
-	flex-flow:wrap;
-	justify-content:space-between;
-	font-size:40px;
-	
-}
-.item1{
-	height:80px;
-	width:80px;
-	background-color:blue;
-}
-.item2{
-	height:80px;
-	width:80px;
-	background-color:red;
-}
-.item3{
+ .holder {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
 
-	height:80px;
-	width:80px;
-	background-color:green;
-}
+        .item1 {
+            height: 80px;
+            width: 80px;
+            background-color: green;
+            font-size: 40px;
+        }
 
+        .item2 {
+            height: 80px;
+            width: 80px;
+            background-color: blue;
+            font-size: 40px;
+        }
+
+        .item3{
+            height: 80px;
+            width: 80px;
+            background-color: red;
+            font-size: 40px;
+        }
 
 
 
